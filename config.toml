@@ -1,0 +1,10 @@
+languageCode = "en-us"
+title = "steverusso.me"
+theme = "hugo-simple-blog"
+
+[markup.goldmark.renderer]
+unsafe= true
+
+[params]
+favicon = "/img/avatar.png"
+css = [ "/main.css" ]
