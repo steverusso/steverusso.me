@@ -6,11 +6,9 @@
 		]
 	},
 	{
-		"title": "Recommended Books",
-		"href": "/recommended-books/",
+		"title": "Recommended",
 		"links": [
-			"the-way-to-wealth",
-			"rich-dad-poor-dad"
+			"books"
 		]
 	}
 ]
