@@ -1,6 +1,16 @@
+{{ define "title" }}
+	| Recommended Books | {{ .Title }}
+{{ end }}
+
 {{ define "main" }}
 	<div class="cntr book-review">
 		<article>
+			<div class="heading">
+				<h1>{{ .Title }}</h1>
+				<span>by {{ .Params.bookAuthor }}</span>
+				<hr>
+			</div>
+
 			{{ .Content }}
 		</article>
 	</div>
