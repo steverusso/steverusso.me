@@ -1,10 +1,17 @@
 languageCode = "en-us"
 title = "steverusso.me"
-theme = "hugo-simple-blog"
+theme = "hugo-theme-essential"
+
+[frontmatter]
+	publishDate = [ "published" ]
+	lastmod = [ ":git", "lastmod" ]
 
 [markup.goldmark.renderer]
-unsafe= true
+	unsafe= true
 
 [params]
-favicon = "/img/avatar.png"
-css = [ "/main.css" ]
+	stylesheets = [ "main.css" ]
+	favicon = "/img/avatar.png"
+	logo = "/img/avatar.png"
+	[params.drawer]
+		disableSectionLinks = true
