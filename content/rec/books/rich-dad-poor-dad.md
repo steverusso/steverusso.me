@@ -1,9 +1,7 @@
 ---
-short: Rich Dad Poor Dad 
-title: Rich Dad Poor Dad by Robert T. Kiyosaki
+title: Rich Dad Poor Dad
+bookAuthor: Robert T. Kiyosaki
 ---
-
-{{< heading "Rich Dad Poor Dad" "Robert T. Kiyosaki" >}}
 
 _Rich Dad Poor Dad_ might be the book I recommend the most to people who ask
 for personal finance material. It contains practical, actionable knowledge

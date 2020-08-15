@@ -1,10 +1,8 @@
 ---
-short: The Way to Wealth
-title: The Way to Wealth by Benjamin Franklin
+title: The Way to Wealth
+bookAuthor: Benjamin Franklin
 weight: 1
 ---
-
-{{< heading "The Way to Wealth" "Benjamin Franklin" >}}
 
 _The Way to Wealth_ is not only my favorite personal finance book, but also one
 my favorite books in general. Easily read in one sitting, it's an invaluable
